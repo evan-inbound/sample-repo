@@ -13,4 +13,10 @@ https://redmine.inbound-platform.net/issues/50434
 
 ## Instructions, Screenshots, Recordings
 1. Checkout to this branch
-2. navigate to the payment page and confirmation page check that the footer is removed and purchase button sticks to the bottom
+2. navigate to the payment page and check that the sticky navigation is removed and purchase button sticks to the bottom
+3. confirmation page check that the sticky navigation is removed and purchase button sticks to the bottom
+
+
+
+
+![image](https://github.com/evan-inbound/sample-repo/assets/167051308/71594b4e-c04c-40f0-b898-5f5069a01688)
